@@ -42,7 +42,7 @@ en: &DEFAULT_EN
     people:
       - name: "Ludovic Heintzmann"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Ludo.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -52,7 +52,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Rob Koda"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/Rob.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
